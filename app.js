@@ -83,7 +83,7 @@ function playGame() {
   /* console log the total score */
   console.log(`You: ${humanScore} ----- Computer: ${computerScore}`);
 
-  /* if statement for what to what to display at the end of the game, human win, computer lose or if its a tie */
+  /* if statement for what to what to display at the end of the game, human win, computer lose or if its a tie! */
   if (humanScore > computerScore) {
     console.log("Congrats, you win the game!");
   } else if (computerScore > humanScore) {

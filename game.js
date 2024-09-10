@@ -4,6 +4,7 @@
 /* 
     -Save score, play five rounds
     -add play button
+    -add add play new game
 ]
 */
 
